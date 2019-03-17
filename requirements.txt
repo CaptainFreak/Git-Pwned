@@ -1,0 +1,6 @@
+PySocks
+requests
+beautifulsoup4
+dulwich
+pyfiglet
+tldextract
